@@ -1,0 +1,11 @@
+main {
+    width: 700px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+
+}
+#count-display {
+    font-size: 60px;
+}
